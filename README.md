@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </p>
 
 <br>
-<h3 align="left">Tools : </h3>
+<h3 align="left">Current contributions : </h3>
 
 <table align="center">
 <tr>
