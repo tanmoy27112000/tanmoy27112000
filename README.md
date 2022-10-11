@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 
 <br>
 
-[![Tanmoy's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=tanmoy27112000&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/Rajdip019)
+[![Tanmoy's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=tanmoy27112000&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/tanmoy27112000)
