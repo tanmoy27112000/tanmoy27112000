@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 
 <br>
 
+[![Check out tanmoy27112000's profile on stardev.io](https://stardev.io/developers/tanmoy27112000/badge/languages/global.svg)](https://stardev.io/developers/tanmoy27112000)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/tanmoykarmakar2711/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tanmoy karmakar" height="30" width="40" /></a>
